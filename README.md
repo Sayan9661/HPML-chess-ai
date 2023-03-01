@@ -12,3 +12,5 @@ To reproduce our results, you need to:
 2. Aggregate the data using aggregation script.
 3. Train using trymodels.py
 4. Deploy and play against the AI using one of the minimax files.
+
+## TEAM - Sayan Banerjee, Aditya Chawla
