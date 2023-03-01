@@ -13,4 +13,4 @@ To reproduce our results, you need to:
 3. Train using trymodels.py
 4. Deploy and play against the AI using one of the minimax files.
 
-## TEAM - Sayan Banerjee, Aditya Chawla
+## TEAM - Aditya Chawla,Sayan Banerjee
